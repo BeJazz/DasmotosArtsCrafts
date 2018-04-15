@@ -4,6 +4,11 @@ p {
   font-family: Helvetica
 }
 
+span {
+  color: blue;
+  font-weight: bold;
+}
+
 .heading {
 font-size: 100px;
 font-weight: bold;
